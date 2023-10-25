@@ -124,7 +124,7 @@
       margin: rem(10px) 0;
       font-size: rem(24px);
       @include mainFont(800);
-      color: $accentDark;
+      color: $texts;
       line-height: rem(30px);
     }
 
@@ -138,9 +138,9 @@
     .tags a {
       height: rem(30px);
       line-height: rem(26px);
-      color: $accentDark;
+      color: $themeColor;
       padding: 0 rem(10px);
-      border: 1px solid $accentDark;
+      border: 1px solid $themeColor;
       border-radius: 15px;
       display: inline-block;
       margin: 0 rem(10px) rem(10px) 0;
