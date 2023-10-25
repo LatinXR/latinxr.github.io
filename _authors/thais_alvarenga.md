@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: ThaisAlvarenga
+name: thais_alvarenga
 display_name: Thaís Alvarenga
 position: Creadora
 bio: Licenciada en Media Interactive con especialidad en Matemáticas Aplicada y Cine y Medios Emergentes, graduada en la Universidad de Nueva York (NYU), campus de Abu Dhabi. 
