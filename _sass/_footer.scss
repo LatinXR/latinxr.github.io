@@ -88,11 +88,11 @@ footer {
 
 .main-page {
   footer {
-    background: $primaryDark;
-    border-top: 1px solid lighten($primaryDark, 10%);
+    background: $headerColor;
+    /* border-top: 1px solid lighten($primaryDark, 10%); */
     
     p {
-      color: $accentDark;
+      color: $texts;
     }
   }
 }
