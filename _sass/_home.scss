@@ -139,9 +139,9 @@
     .tags a {
       height: rem(30px);
       line-height: rem(26px);
-      color: $themeColor;
+      color: $lightGray;
       padding: 0 rem(10px);
-      border: 1px solid $themeColor;
+      border: 1px solid $lightGray;
       border-radius: 15px;
       display: inline-block;
       margin: 0 rem(10px) rem(10px) 0;
@@ -150,7 +150,7 @@
       &:hover {
         color: $primaryDark;
         background: $accentDark;
-        border-color: $accentDark;
+        border-color: $primaryDark;
       }
     }
 
