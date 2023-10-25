@@ -33,7 +33,7 @@ footer {
   }
 
   svg {
-    @include size(28, 28);
+    @include size(30, 30);
     display: inline-block;
     vertical-align: middle;
     margin-right: rem(10px);
