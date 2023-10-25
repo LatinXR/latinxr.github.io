@@ -33,6 +33,7 @@
 
 .box-item {
   flex: 1 0 $itemMinWidth;
+  background-color: rgba(0,0,0,.5);
   margin: 0 0 rem(30px);
   display: inline-block;
   min-height: rem(285px);
