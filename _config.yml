@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: LatinXR
+title: LatinXR | Un blog de desarrollo
+description: LatinXR es una organización de tecnología multimedia que tiene como objetivo educar a las personas acerca de las tecnologías emergentes de una manera práctica y divertida.
 tags:
   - blog
   - template
@@ -17,9 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+
+email: latinxrhn@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,12 +27,9 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: LatinXR
+instagram_username: latinxr.hn
+youtube_username: LatinXR
 
 
 # Posts Settings
