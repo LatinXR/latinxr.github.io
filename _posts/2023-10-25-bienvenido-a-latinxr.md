@@ -6,9 +6,9 @@ subtitle: 'Un lugar para aprender sobre tecnologías emergentes de forma facil y
 description: >-
   Un lugar para aprender sobre tecnologías emergentes de forma facil y creativa.
 image: >-
-  /assets/img/uploads/Thais-LatinXR-profile.PNG
+  /assets/img/uploads/bienvenido.PNG
 optimized_image: >-
-  /assets/img/uploads/Thais-LatinXR-profile.PNG
+  /assets/img/uploads/bienvenido.PNG
 category: blog
 tags:
   - welcome
