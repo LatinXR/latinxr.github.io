@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
-description: A category for life related posts.
+title: Academia
+slug: academia
+description: A category for academia posts.
 ---
