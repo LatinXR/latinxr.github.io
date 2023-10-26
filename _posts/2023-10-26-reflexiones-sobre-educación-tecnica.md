@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2023-10-26 12:02:40
 layout: post
 title: ¿Qué me enseño mi licenciatura técnica en el extrangero?
 subtitle: Reflexiones de una estudiante de NYUAD sobre el verdadero valor de la educación. 
