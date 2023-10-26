@@ -108,7 +108,7 @@ body.main-page {
   background-color: $headerColor;
 
   .bar-header {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: $headerBarColor:
   }
 }
 
@@ -124,7 +124,7 @@ body.light:not(.main-page) {
 
     .logo a,
     .version {
-      color: $primaryDark;
+      color: $headerBarColor:
     }
   }
 }
