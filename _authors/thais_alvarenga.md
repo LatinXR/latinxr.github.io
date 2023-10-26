@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/Thais-LatinXR-profile.PNG
 name: thais_alvarenga
 display_name: Thaís Alvarenga
 position: Creadora
