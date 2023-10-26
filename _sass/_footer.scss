@@ -53,10 +53,10 @@ footer {
 
   a {
     display: inline-block;
-    fill: #808080;
+    fill: rgba(0,0,0,.8);
     transition: all 0.3s ease;
     text-decoration: none;
-    color: #808080;
+    color: rgba(0,0,0,.8);
     
     &:hover {
       fill: $themeColor;
