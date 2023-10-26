@@ -124,7 +124,7 @@ body.light:not(.main-page) {
 
     .logo a,
     .version {
-      color: $headerBarColor;
+      color: rgba(0, 0, 0, .95);
     }
   }
 }
