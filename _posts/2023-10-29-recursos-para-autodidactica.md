@@ -31,6 +31,7 @@ Disenho
 
 Programação
 - [10 cursos de programação gratuitos](https://www.bbc.com/portuguese/geral-54281544)
+- [Tutoriais sobre realidade virtual](https://youtube.com/playlist?list=PLx4x_zx8csUgV4x0FCKIxQ1q9JAD2-MQr&si=Ric_UghQ1ink-Pnj) (em Unity e Aframe)
 
 Outros
 
