@@ -3,7 +3,7 @@ date: 2023-10-29 1:40:00
 layout: post
 title: Recursos para autodidáctica
 subtitle: 
-description: Compilación de links con recursos para aprender más sobre tecnología y programación
+description: Compilación de links con recursos para aprender más sobre tecnología y programación.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image:
 category: autodidáctica
