@@ -39,15 +39,15 @@ Programação
 # In English
 
 General
-- [Roadmap](https://roadmap.sh/). Contiene rutas para obtener las habilidades necesarias para diferentes carreras en tecnología. 
+- [Roadmap](https://roadmap.sh/). Contiene rutas para obtener las habilidades necesarias para diferentes carreras en tecnología.
+- [Prompting for Generative AI](https://app.frame.io/reviews/1a000cf5-659f-42af-bc83-72299c03600d/d7312ae9-19b8-4d85-a70f-e9234443ff79)
+- [Luma AI for 3D capture](https://lumalabs.ai/)
 
 Design
 
 Programming
 
-Tópicos Gerais
-- [Prompting for Generative AI](https://app.frame.io/reviews/1a000cf5-659f-42af-bc83-72299c03600d/d7312ae9-19b8-4d85-a70f-e9234443ff79)
-- [Luma AI for 3D capture](https://lumalabs.ai/)
+
 
 
 # Multilingual 
